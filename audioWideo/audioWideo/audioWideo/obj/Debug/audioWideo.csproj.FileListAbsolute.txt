@@ -1,0 +1,14 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\bin\Debug\audioWideo.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\bin\Debug\audioWideo.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\bin\Debug\audioWideo.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\audioWideo\audioWideo\audioWideo\obj\Debug\audioWideo.pdb

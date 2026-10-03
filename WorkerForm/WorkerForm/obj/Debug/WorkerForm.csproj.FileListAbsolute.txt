@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\bin\Debug\WorkerForm.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\bin\Debug\WorkerForm.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\bin\Debug\WorkerForm.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\WorkerForm\WorkerForm\obj\Debug\WorkerForm.pdb

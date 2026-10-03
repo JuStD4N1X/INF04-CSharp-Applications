@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\bin\Debug\mySounds.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\bin\Debug\mySounds.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\bin\Debug\mySounds.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\mySounds\mySounds\obj\Debug\mySounds.pdb

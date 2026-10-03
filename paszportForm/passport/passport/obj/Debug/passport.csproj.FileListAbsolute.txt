@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\bin\Debug\passport.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\bin\Debug\passport.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\bin\Debug\passport.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\paszportForm\passport\passport\obj\Debug\passport.pdb

@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\bin\Debug\cezar.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\bin\Debug\cezar.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\bin\Debug\cezar.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\cezarForm\cezar\cezar\obj\Debug\cezar.pdb

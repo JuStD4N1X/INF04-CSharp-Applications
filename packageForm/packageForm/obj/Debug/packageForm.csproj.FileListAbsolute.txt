@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\bin\Debug\packageForm.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\bin\Debug\packageForm.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\bin\Debug\packageForm.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\packageForm\packageForm\obj\Debug\packageForm.pdb

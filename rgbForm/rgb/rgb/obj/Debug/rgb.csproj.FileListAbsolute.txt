@@ -1,0 +1,15 @@
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\bin\Debug\rgb.exe.config
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\bin\Debug\rgb.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\bin\Debug\rgb.pdb
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\MainWindow.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\App.g.cs
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb_MarkupCompile.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb_MarkupCompile.lref
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\MainWindow.baml
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.g.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.Properties.Resources.resources
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.exe
+C:\Users\Komputer\Desktop\poprawaInf04\Desktopowa\rgbForm\rgb\rgb\obj\Debug\rgb.pdb

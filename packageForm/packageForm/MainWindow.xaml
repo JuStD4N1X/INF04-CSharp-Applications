@@ -1,0 +1,32 @@
+﻿<Window x:Class="packageForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:packageForm"
+        mc:Ignorable="d"
+        Title="Send shipment 12345678901" Height="450" Width="800">
+    <Grid>
+        <GroupBox Header="Package type" Margin="60,30,525,248">
+            <Grid>
+                <RadioButton x:Name="rPostcard" Content="Postcard" HorizontalAlignment="Left" Margin="17,20,0,0" VerticalAlignment="Top" GroupName="rButtons" IsChecked="True"/>
+                <RadioButton x:Name="rLetter" Content="Letter" HorizontalAlignment="Left" Margin="17,50,0,0" VerticalAlignment="Top" GroupName="rButtons"/>
+                <RadioButton x:Name="rPackage" Content="Package" HorizontalAlignment="Left" Margin="17,80,0,0" VerticalAlignment="Top" GroupName="rButtons"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Address details" Margin="420,30,80,150">
+            <Grid>
+                <Label Content="Street address" HorizontalAlignment="Left" Margin="30,20,0,0" VerticalAlignment="Top" Width="103"/>
+                <TextBox HorizontalAlignment="Left" Margin="30,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Label Content="Postal code" HorizontalAlignment="Left" Margin="30,90,0,0" VerticalAlignment="Top"/>
+                <Label Content="City" HorizontalAlignment="Left" Margin="30,160,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="postalCodeTextBox" HorizontalAlignment="Left" Margin="30,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox HorizontalAlignment="Left" Margin="30,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="Check Price" HorizontalAlignment="Left" Margin="60,204,0,0" VerticalAlignment="Top" Width="215" Click="btnCheckPrice_Click"/>
+        <Image x:Name="imgPackageType" Margin="60,239,640,132" Source="/pocztowka.png" Stretch="Fill"/>
+        <Label x:Name="lblPrice" Content="Price: $1" HorizontalAlignment="Left" Margin="189,239,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="22"/>
+        <Button x:Name="btnConfirm" Content="Confirm" HorizontalAlignment="Left" Margin="60,326,0,0" VerticalAlignment="Top" Width="660" Click="btnConfirm_Click"/>
+    </Grid>
+</Window>
