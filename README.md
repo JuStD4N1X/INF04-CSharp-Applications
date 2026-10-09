@@ -11,11 +11,11 @@ A collection of C# WPF (Windows Presentation Foundation) desktop applications fe
 
 ## Included Applications
 
-| Application | Description |
-| :--- | :--- | :--- |
-| **Postal Service Calculator** | Desktop app calculating shipping costs based on package type and user input. |
-| **Passport Generator** | GUI application for entering personal data and generating document identifiers. | 
-| **Password Generator** | WPF tool for generating secure passwords based on user criteria. |
+| Application | Description 
+| :--- | :---
+| **Postal Service Calculator** | Desktop app calculating shipping costs based on package type and user input.
+| **Passport Generator** | GUI application for entering personal data and generating document identifiers.
+| **Password Generator** | WPF tool for generating secure passwords based on user criteria.
 
 ## How to Run
 
